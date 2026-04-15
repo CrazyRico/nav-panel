@@ -1,4 +1,12 @@
 # 导航页 - Nav
+[![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yaonew/nav-panel)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/yaonew/nav-panel)
+[![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/yaonew/nav-panel)
+
+
+[![Stars](https://img.shields.io/github/stars/yaonew/nav-panel?style=flat-square&logo=github&label=stars&color=yellow)](https://github.com/yaonew/nav-panel/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/yaonew/nav-panel/total?style=flat-square&logo=github&label=downloads&color=green)](https://github.com/yaonew/nav-panel/releases)
+[![Docker Pulls](https://img.shields.io/docker/pulls/yaonew/nav-panel?style=flat-square&logo=docker&label=docker%20pulls&color=blue)](https://hub.docker.com/r/yaonew/nav-panel)
 
 一个基于 Svelte 构建的现代化导航页面应用，支持登录后编辑、添加、删除导航项。
 
